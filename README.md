@@ -1,6 +1,6 @@
 
 
-# :mag: Mr.54n
+# :mag: Mr.54n 404
 
 ### Mr.54n  is a information gathering tool (OSINT). The main purpose is to gain information about domains,username and phone numbers with the help of public source avaiable on the internet also it use the google dorks attack for specific researchers. It also use proxies for make your requests completley anonymous and a WhoIS Api for getting more information about a domain.
 <br>
@@ -12,7 +12,7 @@
 # :heavy_check_mark: INSTALLATION LINUX/MAC:
 ```bash
 git clone https://github.com/muhikhsanm404/osint
-cd Mr54n
+cd osint
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
@@ -21,7 +21,7 @@ sudo ./install.sh
 # :heavy_check_mark: INSTALLATION WINDOWS:
 ```bash
 git clone https://github.com/muhikhsanm404/osint
-cd Mr54n
+cd osint
 Install.cmd
 ```
 <br>
@@ -30,7 +30,7 @@ Install.cmd
 ```bash
 pkg install proot
 git clone https://github.com/muhikhsanm404/osint
-cd Mr54n
+cd osint
 proot -0 chmod +x install_Termux.sh
 ./install_Termux.sh
 ```
