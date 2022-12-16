@@ -212,3 +212,6 @@ write:François
 <br>
 
 
+https://csilinux.com/
+https://osintframework.com/
+https://github.com/lockfale/OSINT-Framework
